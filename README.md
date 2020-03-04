@@ -2,7 +2,7 @@
 
 # ccgen
 ccgen use luhn or modulus 10 algorithm to generate a valid credit card number.  
-consider of luhn algorithm is really affect on our life, cause a lot of nation or company has been used the algorithm for validate their product numbers like credit card numbers, id numbers, sim numbers and other. Thats why i make this, though it will be useful someday
+consider of luhn algorithm is really affect on our life, cause a lot of nation or company has been used the algorithm for validate their product numbers like credit card numbers, id numbers, sim numbers and other. Thats why i make this, though it will be useful someday.  
 there's two method actually to use the luhn algorithm.
 
 ### Luhn Algorithm

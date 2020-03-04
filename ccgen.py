@@ -15,8 +15,8 @@ while True:
 	num = []
 	num_n = []
 	num_s = []
-	for i in range(random.randrange(13, 16)):
-		num.append(random.randrange(0,9))
+	for i in range(random.randrange(13, 17)):
+		num.append(random.randrange(0,10))
 	for num_x in num[:len(num)-1][::-1]:
 		if x == 0:
 			num_xx = num_x * 2
